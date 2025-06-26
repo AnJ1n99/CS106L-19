@@ -1,5 +1,5 @@
-#include <iostream>
 
+#include <iostream>
 #include <QtGui>
 #include <QWidget>
 #include <QApplication>
